@@ -1,4 +1,4 @@
 #!/bin/zsh
 
-echo "it works"
+echo "success"
 exit 0
