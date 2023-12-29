@@ -1,4 +1,4 @@
 #!/bin/zsh
 
-echo "version 0.1.0"
+echo "version 0.1.1"
 exit 0
